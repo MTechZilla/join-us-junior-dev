@@ -37,3 +37,8 @@ _Recommended tech stack to be used:_
 1. React / Nextjs
 2. Chakra UI / Tailwind css
 3. Firebase
+
+Once completed, you can submit the github link of source code on hr@mtechzilla.com and we will get back.
+
+**The timeline to complete this app is a maximum of two days. Plagiarism is prohibited and if an applicant submits a plagiarised work then his application will be rejected.**
+
