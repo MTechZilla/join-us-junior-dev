@@ -8,7 +8,7 @@
 
 
 
-# Assingment 2
+# Assignment 2
 
 ### Show a card ui with users github public information.
 
