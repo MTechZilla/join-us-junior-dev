@@ -38,7 +38,15 @@ _Recommended tech stack to be used:_
 2. Chakra UI / Tailwind css
 3. Firebase
 
-Once completed, you can submit the github link of source code on hr@mtechzilla.com and we will get back.
+### Requirements:
+1. Push the code to a public Github repository.
+2. Assignments should be in seperate repository.
+3. Both assignments should be deployed either on [Vercel](https://vercel.com) or [Netlify](https://netlify.com).
+4. Send the deployed project link and Github Project link on hr@mtechzilla.com
+
+
+> **NOTE**: Its important that you fullfill all of the requirements mentioned above.
+> If you fail to do so, your assessment will be rejected.
 
 **The timeline to complete this app is a maximum of two days. Plagiarism is prohibited and if an applicant submits a plagiarised work then his application will be rejected.**
 
