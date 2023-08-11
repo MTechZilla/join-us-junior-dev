@@ -42,7 +42,7 @@ _Recommended tech stack to be used:_
 1. Push the code to a public Github repository.
 2. Assignments should be in seperate repository.
 3. Both assignments should be deployed either on [Vercel](https://vercel.com) or [Netlify](https://netlify.com).
-4. Send the deployed project link and Github Project link on hr@mtechzilla.com
+4. Send the deployed project link and Github Project link on jobs@mtechzilla.com
 
 
 > **NOTE**: Its important that you fullfill all of the requirements mentioned above.
